@@ -1,0 +1,20 @@
+body {background-image: url(howlsmovingcastle.jpg); background-size: cover; padding: 69px}
+@font-face {
+ 	 font-family: 'Dafont'; src: url('minercraftory.woff') format('woff');}
+	 @font-face {font-family: 'Dafont2'; src: url('champagne.woff') format('woff');}
+	 
+h1 {text-align: center; font-size: 40px; font-family: 'Dafont'; margin: auto; margin-bottom: 30px; -webkit-text-fill-color: white;
+   -webkit-text-stroke-width: 1.5px; -webkit-text-stroke-color: black;
+}
+ .loginform {
+  text-align: center; margin: auto;
+  width: 900px; height: 430px; background: rgba(250, 250, 250, 0.4); padding-bottom: 60px; padding-top: 10px;}
+input {border-radius: 5px; border-color: black; background: rgba(250, 250, 250, 0.6); width: 300px; font-family: 'Dafont2'; font-size: 20px;}
+.yesorno { margin: 0;}
+.Dogwalking {margin-left: auto; margin-right: auto; height: 130px; display: block; margin: auto; width: 300px;}
+p {font-family: verdana; color: black;}
+label {font-family: verdana; padding-bottom: 20px;}
+a {color: rgb(0, 106, 255);}
+.submit {background: rgba(250, 250, 250, 0.4);}
+
+	 
